@@ -7,7 +7,7 @@ http://ipipip/rtp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视高清",CCTV4
 http://ipipip/rtp/239.77.1.166:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视高清",CCTV4K
-http://ipipip/rtp/239.77.0.174:5146
+http://ipipip/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视高清",CCTV5
 http://ipipip/rtp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视高清",CCTV5+
@@ -268,3 +268,4 @@ http://ipipip/rtp/239.253.43.27:5146
 http://ipipip/rtp/239.253.43.21:5146
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
 http://ipipip/rtp/239.253.43.19:5146
+
