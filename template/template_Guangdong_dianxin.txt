@@ -159,9 +159,9 @@ http://ipipip/rtp/239.77.0.117:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="卫视高清",岭南戏曲
 http://ipipip/rtp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="卫视高清",汕头综合
-http://ipipip/rtp/239.77.1.130:5146
+http://ipipip/rtp/239.253.43.45:5146
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="卫视高清",汕头经济生活
-http://ipipip/rtp/239.77.1.131:5146
+http://ipipip/rtp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://live.fanmingming.com/tv/汕头文旅体育.png" group-title="卫视高清",汕头文旅体育
 http://ipipip/rtp/239.253.43.47:5146
 #EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="卫视高清",佛山公共
@@ -280,3 +280,4 @@ http://ipipip/rtp/239.77.0.60:5146
 http://ipipip/rtp/239.77.0.58:5146
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png" group-title="卫视高清",山东卫视4K
 http://ipipip/rtp/239.77.0.61:5146
+
